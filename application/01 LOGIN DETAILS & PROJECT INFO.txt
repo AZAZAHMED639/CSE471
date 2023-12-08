@@ -1,0 +1,16 @@
+**Log on to codeastro.com for more projects!**
+
+**Database Name: spmsigniter**
+
+**Developed by Shubham Kr Ghosh**
+
+**Recommended PHP Version 5.6.3, 7.4.12**
+
+
+Remember: Do not change the project's folder name without updating $config['base_url']
+
+
+**Admin Login Details** 
+
+Username: spmadmin
+Password: password123
